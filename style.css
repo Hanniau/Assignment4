@@ -1,0 +1,99 @@
+.container{
+        position: relative;
+        width:100%;
+        height:150vh ;
+        
+    
+}
+
+.New{
+    border: 1px solid palevioletred;
+    border-bottom:1px solid palevioletred ;
+    margin-bottom: 200px;
+    margin-top: 0px;
+    /*margin-right: 200px;*/
+    margin-left: 100px;
+    height: 600px;
+   /* display: flex;
+    justify-content: center;*/
+}
+.San{
+    border: 1px solid palevioletred;
+    border-bottom:1px solid palevioletred ;
+    margin-bottom: 200px;
+    margin-top: 0px;
+    height: 600px;
+    margin-left: 50px;
+    margin-right: 100px;
+  /*  display: flex;
+    justify-content: center;*/
+}
+
+.second{
+    text-align: center;
+   /* justify-content: center;*/
+}
+.fourth{
+    text-align: center;
+   /* justify-content: center;*/
+}
+.flex{text-align: center;}
+.second>p{margin-top: 50px;}
+.second>button{
+    margin-top: 30px;
+    background-color: brown;
+    width: 150px;
+    height: 50px;
+
+}
+.second>span{margin-top: 100px;}
+.fourth>p{margin-top: 40px;}
+.fourth>button{
+    margin-top: 30px;
+    background-color: rgb(170, 51, 51);
+    width: 150px;
+    height: 50px;
+}
+.fourth>span{margin-top: 90px;}
+
+img{
+    margin-bottom: 30px;
+    border-bottom: 4px solid rgb(163, 30, 15);
+}
+.third>img{height: 280px;}
+
+.heading{text-align: center;
+    margin-top: 150px;
+        
+}
+.Item{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+.heading>h1{
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.grid{
+    color: blue;
+    position: absolute;
+    top:220px;
+    right:150px;
+    color: white;
+    font-size: 40px;
+    
+}
+.first,.third{
+    position: relative;
+}
+.first>img{height: 280px;}
+
+
+
